@@ -78,5 +78,5 @@ fastboot -w flashall
 
 ```
 
-To use the 3DNDroid, please refer to this video (https://youtu.be/zEzBMxf1Vf8).
+The original version of 3DNDroid is DynDebloater, please refer to this video to see the demonstration of how to use it (https://youtu.be/zEzBMxf1Vf8).
 The example app and corresponding debloating schema are included in /example
